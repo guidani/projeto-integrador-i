@@ -30,6 +30,10 @@ Financer
   - Será possível adicionar contas para débito e crédito, onde, sempre que um registro for lançado, seu valor será debitado ou creditado no saldo da conta correspondente.
 3. Gastos programados
   - Será possível adicionar alguns gastos recorrentes, onde o sistema irá avisar sempre que o gasto se aproximar do vencimento ou tiver vencido e não tiver sido pago.
+4. Alerta de gastos
+  - Conforme os gastos forem sendo registrados, a aplicação poderá emitir um alerta com base na % do saldo que já foi comprometido, recomendando que outra conta seja usada para registrar os próximos gastos.
+5. Atualização automática de saldo.
+  - O usuário poderá definir para que uma conta recebe um crédito automático em alguma data do mês, ambos definidos pelo usuário.
 
 ## Roadmap
 - [x] Documentação
