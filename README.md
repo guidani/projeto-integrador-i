@@ -39,4 +39,5 @@ Financer
 - [x] Documentação
 - [x] Design de telas
 - [x] Criação de MPV
-- [ ] Estabelecer regras de negócio
+- [x] Estabelecer regras de negócio
+- [ ] Criar sistema de login e estabelecer regras de segurança.
